@@ -1,0 +1,5 @@
+flows:
+  ec3d8f46-2432-41f8-ae21-ee9f5dfc13a1: {ver: 1, file: nifi-git-setup.snapshot, comments: '1',
+    author: anonymous, created: 1753440227821, flowName: nifi-git-setup, flowDesc: ''}
+layoutVer: 1
+bucketId: 96f2057f-4e33-4037-bf80-f02086871cad
